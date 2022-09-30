@@ -146,6 +146,7 @@
 - [Khairallah AL-Awady](https://github.com/KhairallahA)
 - [Joey Phoier](https://github.com/JoeyPhoier)
 - [Nikhil Rajiv](https://github.com/NIKHIL-RAJIV)
+- [Shalabh Devliyal](https://github.com/ShalabhDevliyal)
 - [Abhishek Verma](https://github.com/Abhishekverma2002)
 - [Pharis Njuguna Kariuki](https://github.com/makwaka)
 - [Kamran Jameel](https://github.com/jameelk809)
